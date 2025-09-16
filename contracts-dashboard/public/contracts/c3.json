@@ -1,0 +1,21 @@
+{
+  "id": "c3",
+  "name": "Cloud Hosting Contract",
+  "parties": "AWS & XYZ Ltd",
+  "start": "2022-05-20",
+  "expiry": "2025-05-20",
+  "status": "Expired",
+  "risk": "Low",
+  "clauses": [
+    { "title": "Support", "summary": "24/7 technical support included.", "confidence": 0.95 },
+    { "title": "Pricing", "summary": "Fixed monthly cost with annual review.", "confidence": 0.85 }
+  ],
+  "insights": [
+    { "risk": "Low", "message": "Pricing terms are stable with no unexpected increases." },
+    { "risk": "Low", "message": "Support obligations are clearly defined." }
+  ],
+  "evidence": [
+    { "source": "Section 3.2", "snippet": "Customer support available 24/7 via chat and phone.", "relevance": 0.93 },
+    { "source": "Section 7.1", "snippet": "Pricing will be reviewed annually but capped at 5% increase.", "relevance": 0.9 }
+  ]
+}
